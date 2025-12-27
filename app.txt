@@ -1,0 +1,4 @@
+Task Manager App Core Logic
+- Add Task
+- Delete Task
+
